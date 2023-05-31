@@ -1,0 +1,10 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}- name: ServiceNow DevOps Register Package
+  uses: ServiceNow/servicenow-devops-register-package@v1.34.2
+
+ghcr.io/jarrodcolburn/features/android-sdk:0
+ghcr.io/akhildevelops/devcontainer-features/android-cli:0
+"ghcr.io/rchaganti/vsc-devcontainer-features/azurebicep:1": {}
